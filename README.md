@@ -1,6 +1,6 @@
 # maximalsquare
 
-Muti-Thread기반 위에서 빈공간을 찾아 객체들을 배치 하고자 합니다.
+Multi-Thread기반 위에서 빈공간을 찾아 객체들을 배치 하고자 합니다.
 
 <img src="maximalsquare.png" width="50%" height="50%"></img>
 
@@ -20,7 +20,7 @@ Visual Studio 를 기반으로 컴파일되도록 작성하였습니다.
 
 아주 빠른시간 안에 분포된 빈공간을 찾아서 배치하기 위한 방법론과 알고리즘 입니다.
 
-알고리즘을 Muti-Thread기반 위에서 분산처리가 되어지도록 구성을 하였습니다.
+알고리즘을 Multi-Thread기반 위에서 분산처리가 되어지도록 구성을 하였습니다.
 
 ## Reference
 
