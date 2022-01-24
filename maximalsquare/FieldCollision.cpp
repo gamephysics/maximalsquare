@@ -258,8 +258,9 @@ namespace core
 		if (dpp_.size() <= 0) dpp_.resize(this->width_ + 1);
 
 		// clear
-		dpp_[rect.left]		= 0;
-		dpp_[rect.left + 1] = 0;
+		std::memset(&dpp_[0], 0, sizeof(Int16) * (this->width_ + 1));
+		//dpp_[rect.left]	  = 0;
+		//dpp_[rect.left + 1] = 0;
 
 		Int16 maxsqlen = 0, prev = 0;
 
