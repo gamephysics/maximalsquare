@@ -6,7 +6,7 @@ Multi-Thread기반 위에서 빈공간을 찾아 객체들을 배치 하고자 �
 
 ## Youtube
 
-https://youtu.be/xxxxx
+[![Video Label](https://img.youtube.com/vi/DF6r4I5-1VM/0.jpg)](https://youtu.be/DF6r4I5-1VM)
 
 ## Compile
 
